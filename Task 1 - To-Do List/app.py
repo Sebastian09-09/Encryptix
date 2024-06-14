@@ -21,6 +21,7 @@ set_default_color_theme("theme.json")
 
 def moveToExpired():
     global data, frame, all_expired_tasks
+    
     delThis = []
     remThis = []
     for i in data['data']['to-do']:
@@ -148,7 +149,23 @@ frame.pack(padx=5,pady=10)
 
 
 data = get()
-moveToExpired()
+
+#Alter Expired
+delThis = []
+for i in data['data']['to-do']:
+    if i != datetime.today().strftime('%d/%m/%Y'):
+        if i not in data['data']['expired']:
+            data['data']['expired'][i] = []
+
+        for x in data['data']['to-do'][i]:
+            data['data']['expired'][i].append(x)
+        
+        delThis.append(i)
+
+for j in delThis:
+    data['data']['to-do'].pop(j)
+
+set(data)
 
 def optionmenu_callback(choice, var, frame):
     global data, all_completed_tasks
