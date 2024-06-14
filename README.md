@@ -3,4 +3,21 @@ Internship repo for Encryptix
 
 ## Task 1
 ### To-Do List
-<img src='Task 1 - To-Do List\img.png' width=800px style="margin: 0px auto;">
+#### A Simple To-Do List made with Python using CustomTkinter
+<img src='Task 1 - To-Do List\img.png' width=800px>
+
+## Task 2
+### Calculator
+<img src='Task 2 - Calculator\img.png' width=800px>
+
+## Task 3
+### Password Generator
+<img src='Task 3 - Password Generator\img.png' width=800px>
+
+## Task 4
+### Rock-Paper-Scissors Game
+<img src='Task 4 - Rock-Paper-Scissors\img.png' width=800px>
+
+## Task 5
+### Contact Book
+<img src='Task 5 - Contac Book\img.png' width=800px>
