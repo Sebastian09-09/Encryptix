@@ -8,7 +8,7 @@ Internship repo for Encryptix
 
 ## Task 2
 ### Calculator
-<img src='Task 2 - Calculator\img.png' width=800px>
+<img src='Task 2 - Calculator\img.png' width=400px>
 
 ## Task 3
 ### Password Generator
@@ -20,4 +20,4 @@ Internship repo for Encryptix
 
 ## Task 5
 ### Contact Book
-<img src='Task 5 - Contac Book\img.png' width=800px>
+<img src='Task 5 - Contact Book\img.png' width=800px>
