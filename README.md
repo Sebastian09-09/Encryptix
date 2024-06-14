@@ -8,6 +8,7 @@ Internship repo for Encryptix
 
 ## Task 2
 ### Calculator
+#### A Simple Calculator made with Python using CustomTkinter
 <img src='Task 2 - Calculator\img.png' width=400px>
 
 ## Task 3
