@@ -13,13 +13,5 @@ Internship repo for Encryptix
 
 ## Task 3
 ### Password Generator
-### A Simple Password Generator made wiht Python using CustomTkinter
+### A Simple Password Generator made with Python using CustomTkinter
 <img src='Task 3 - Password Generator\img.png' width=538px>
-
-## Task 4
-### Rock-Paper-Scissors Game
-<img src='Task 4 - Rock-Paper-Scissors\img.png' width=800px>
-
-## Task 5
-### Contact Book
-<img src='Task 5 - Contact Book\img.png' width=800px>
